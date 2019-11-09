@@ -1,6 +1,6 @@
 # Topic to be covered is <u>Exploratory Data Analysis using pandas</u>
 <br>
-# What is Data Analysis?
+# What is Data Analysis ?
 Data analysis is a process for obtaining raw data and converting it into
 information useful for decision-making by users.<br>
 Wikipedia defines it as the study of the collection, analysis, interpretation,
