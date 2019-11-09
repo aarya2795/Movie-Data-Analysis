@@ -23,7 +23,6 @@ questions might be answered by them.
 <li> Defining the right questions </li>
 <li> Using effective visualisations </li>
 </ol>
-<br>
 <h2>Important python packages</h2>
 <ol type="1">
 <li> Numpy: A fundamental package for scientific computing with Python. </li>
@@ -31,7 +30,6 @@ questions might be answered by them.
 <li> Matplotlib: A Python 2D plotting library which produces publication quality figures in a variety of hard copy formats and interactive environments across platforms.</li>
 <li> Seaborn: A Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.</li>
 </ol>
-<br>
 <h2>Step1: Data Cleansing</h2>
 <b>Data cleansing</b> is the first and a very crucial step in the overall <b>data</b> preparation process and is the process of analysing, identifying and correcting messy, raw <b>data</b>. When analysing organisational <b>data to make strategic decisions you must start with a thorough <b>data cleansing</b> process.
 <br>
